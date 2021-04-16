@@ -1,2 +1,2 @@
-Esto es una línea
-Esto es otra
+Esto es una línea modificada
+Esto es otra línea modificada
