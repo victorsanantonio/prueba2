@@ -1,0 +1,9 @@
+diff --git a/index.txt b/index.txt
+index a27bebd..c93647b 100644
+--- a/index.txt
++++ b/index.txt
+@@ -1,2 +1,2 @@
+-Esto es una línea
+-Esto es otra
++Esto es una línea modificada
++Esto es otra línea modificada
